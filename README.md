@@ -25,13 +25,29 @@ Primary concept render:
 
 ![Aircraft concept render](assets/figures/aircraft/aircraft-concept-render.png)
 
-Control surface layout:
+Aircraft Dimensions:
 
-![Control surfaces](assets/figures/aircraft/control-surfaces-layout.png)
+![Dimensions](assets/figures/aircraft/Dimensions.png)
 
 RCAM simulation in Simulink
 
 ![RCAM](assets/figures/simulation/rcam-simulink-overview.png)
+
+Impulse Response Stability of Cruise
+
+![Stability](assets/figures/simulation/Stability.png)
+
+Fluid Dynamics of Elevators
+
+![CFD](assets/figures/simulation/ElevatorCFD.png)
+
+Finite Element Analysis of Wings
+
+![FEA](assets/figures/simulation/WingFEA.png)
+
+Flight Performance Envelope
+
+![FlightEnvelope](assets/figures/simulation/FlightEnvelope.png)
 
 ## Technical Artifacts
 
