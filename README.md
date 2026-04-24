@@ -29,9 +29,9 @@ Control surface layout:
 
 ![Control surfaces](assets/figures/aircraft/control-surfaces-layout.png)
 
-Autopilot and onboard avionics configuration:
+RCAM simulation in Simulink
 
-![Autopilot configuration](assets/figures/aircraft/autopilot-configuration.png)
+![RCAM](assets/figures/simulation/rcam-simulink-overview.png)
 
 ## Technical Artifacts
 
