@@ -1,0 +1,14 @@
+.DS_Store
+
+# Private or non-public material
+private/
+**/archive/
+**/_archive/
+
+# MATLAB and Simulink generated artifacts
+**/slprj/
+*.slxc
+*.asv
+TrimmedLinearizedSystem.mat
+
+# **/summary.md
